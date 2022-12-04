@@ -6,7 +6,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace ESP.Expand.Reflect
+namespace Expand.Reflect
 {
     public class BaseReflectHelper : IBaseReflectHelper
     {

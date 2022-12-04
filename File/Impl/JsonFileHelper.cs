@@ -1,7 +1,7 @@
 ﻿using ESP.Expand.File.Interface;
 using Newtonsoft.Json;
 
-namespace ESP.Expand.File.Impl
+namespace Expand.File.Impl
 {
     public class JsonFileHelper : BaseFileHelper,IJsonFileHelper
     {

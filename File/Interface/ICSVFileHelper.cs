@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace ESP.Expand.File.Interface
+namespace Expand.File.Interface
 {
     public interface ICSVFileHelper
     {

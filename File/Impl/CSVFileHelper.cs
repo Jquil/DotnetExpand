@@ -3,7 +3,7 @@ using ESP.Expand.File.Interface;
 using System.Data;
 using System.Text;
 
-namespace ConsoleApp1.File.Impl
+namespace Expand.File.Impl
 {
     public class CSVFileHelper : BaseFileHelper, ICSVFileHelper
     {

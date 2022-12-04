@@ -3,7 +3,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace ESP.Expand.File.Impl
+namespace Expand.File.Impl
 {
     public class BaseFileHelper : IBaseFileHelper
     {

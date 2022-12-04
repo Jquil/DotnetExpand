@@ -1,4 +1,4 @@
-﻿namespace ESP.Expand.File.Interface
+﻿namespace Expand.File.Interface
 {
     public interface IJsonFileHelper
     {
